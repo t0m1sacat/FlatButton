@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="demo/FlatButtonDemo/ViewController.cs">
+    <Files>
+      <File FileName="binding/ApiDefinition.cs" Line="7" Column="13" />
+      <File FileName="binding/StructsAndEnums.cs" Line="3" Column="13" />
+      <File FileName="demo/FlatButtonDemo/ViewController.cs" Line="1" Column="1" />
+      <File FileName="demo/FlatButtonDemo/AppDelegate.cs" Line="11" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

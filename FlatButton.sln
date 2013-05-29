@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlatButton", "binding\FlatButton.csproj", "{0E17F584-2CD9-43BE-8DCE-6FF0E2E3C3E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlatButtonDemo", "demo\FlatButtonDemo.csproj", "{76AF2E9D-D4D4-4B7B-9196-475ADFA20A7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E17F584-2CD9-43BE-8DCE-6FF0E2E3C3E4}.Ad-Hoc|iPhone.ActiveCfg = Debug|Any CPU
+		{0E17F584-2CD9-43BE-8DCE-6FF0E2E3C3E4}.Ad-Hoc|iPhone.Build.0 = Debug|Any CPU
+		{0E17F584-2CD9-43BE-8DCE-6FF0E2E3C3E4}.AppStore|iPhone.ActiveCfg = Debug|Any CPU
+		{0E17F584-2CD9-43BE-8DCE-6FF0E2E3C3E4}.AppStore|iPhone.Build.0 = Debug|Any CPU
+		{0E17F584-2CD9-43BE-8DCE-6FF0E2E3C3E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E17F584-2CD9-43BE-8DCE-6FF0E2E3C3E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E17F584-2CD9-43BE-8DCE-6FF0E2E3C3E4}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{0E17F584-2CD9-43BE-8DCE-6FF0E2E3C3E4}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{0E17F584-2CD9-43BE-8DCE-6FF0E2E3C3E4}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{0E17F584-2CD9-43BE-8DCE-6FF0E2E3C3E4}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{0E17F584-2CD9-43BE-8DCE-6FF0E2E3C3E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E17F584-2CD9-43BE-8DCE-6FF0E2E3C3E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E17F584-2CD9-43BE-8DCE-6FF0E2E3C3E4}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{0E17F584-2CD9-43BE-8DCE-6FF0E2E3C3E4}.Release|iPhone.Build.0 = Release|Any CPU
+		{0E17F584-2CD9-43BE-8DCE-6FF0E2E3C3E4}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{0E17F584-2CD9-43BE-8DCE-6FF0E2E3C3E4}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{76AF2E9D-D4D4-4B7B-9196-475ADFA20A7B}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{76AF2E9D-D4D4-4B7B-9196-475ADFA20A7B}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{76AF2E9D-D4D4-4B7B-9196-475ADFA20A7B}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{76AF2E9D-D4D4-4B7B-9196-475ADFA20A7B}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{76AF2E9D-D4D4-4B7B-9196-475ADFA20A7B}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{76AF2E9D-D4D4-4B7B-9196-475ADFA20A7B}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
+		{76AF2E9D-D4D4-4B7B-9196-475ADFA20A7B}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{76AF2E9D-D4D4-4B7B-9196-475ADFA20A7B}.Debug|iPhone.Build.0 = Debug|iPhone
+		{76AF2E9D-D4D4-4B7B-9196-475ADFA20A7B}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{76AF2E9D-D4D4-4B7B-9196-475ADFA20A7B}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{76AF2E9D-D4D4-4B7B-9196-475ADFA20A7B}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
+		{76AF2E9D-D4D4-4B7B-9196-475ADFA20A7B}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
+		{76AF2E9D-D4D4-4B7B-9196-475ADFA20A7B}.Release|iPhone.ActiveCfg = Release|iPhone
+		{76AF2E9D-D4D4-4B7B-9196-475ADFA20A7B}.Release|iPhone.Build.0 = Release|iPhone
+		{76AF2E9D-D4D4-4B7B-9196-475ADFA20A7B}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{76AF2E9D-D4D4-4B7B-9196-475ADFA20A7B}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = demo\FlatButtonDemo.csproj
+	EndGlobalSection
+EndGlobal
