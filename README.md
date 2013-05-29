@@ -1,7 +1,7 @@
 # FlatButton
 FlatButton is a button that inherits from the Flat UI style (think Windows 8). 
 
-[[!ScreenShot](http://screencast.com/t/q75F5T4N)]
+[ScreenShot](http://screencast.com/t/q75F5T4N)
 
 ## Credit
 FlatButton was originally published by Katsuma Tanaka, and later bound to work with Xamarin.iOS by Pierce Boggan.
